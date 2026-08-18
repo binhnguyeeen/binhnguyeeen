@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="http://readme-typing-svg.herokuapp.com?font=BBH+Sans+Hegarty&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&height=75&lines=Hi%2C+I'm+Bintang!;Welcome+to+my+profile!;NewJeans+Never+Die!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Boldonse&pause=977&color=2EA902&center=true&vCenter=true&width=435&lines=NEWJEANS+NEVER+DIE!)" />
 </div>
 
 <!--
