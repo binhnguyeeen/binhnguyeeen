@@ -1,4 +1,6 @@
-## Hi there 👋
+<div align="center">
+  <img src="http://readme-typing-svg.herokuapp.com?font=BBH+Sans+Hegarty&size=28&pause=1000&color=F7F7F7&center=true&vCenter=true&random=true&width=435&height=75&lines=Hi%2C+I'm+Bintang!;Welcome+to+my+profile!;NewJeans+Never+Die!" alt="Typing SVG" />
+</div>
 
 <!--
 **binhnguyeeen/binhnguyeeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
