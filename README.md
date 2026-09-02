@@ -17,9 +17,9 @@
 <div align="center">
   <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=iambinhnguyen&count=5&radius=15" alt="Last.fm recently played" />
 </div>
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binhnguyeeen/binhnguyeeen/output/snake-dark.svg" />
+<div align="left">
+  <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=iambinhnguyen&count=1&width=360&radius=15" alt="Last.fm recently played" />
+</div>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binhnguyeeen/binhnguyeeen/output/snake.svg" />
     <img alt="contribution snake" src="https://raw.githubusercontent.com/binhnguyeeen/binhnguyeeen/output/snake.svg" />
   </picture>
