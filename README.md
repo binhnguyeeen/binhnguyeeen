@@ -1,7 +1,15 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Boldonse&pause=977&color=2EA902&center=true&vCenter=true&width=435&lines=NEWJEANS+NEVER+DIE!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Boldonse&pause=500&color=2EA902&center=true&vCenter=true&width=435&lines=sup%2C+im+Nguyen;i+like+kanye;and+doomscrolling" />
 </div>
-
+***
+# About **Me**
+  > "im nice at ping pong" - Kanye Omari West
+### - **Studying At**: Tran Dai Nghia Secondary and High School
+- **C****urrently Learning**: Swift
+- **Goal:**Get into Le Hong Phong High School for The Gifted
+- **Projects: **Cluttered stuff, I don't usually focus on one, I can quickly be bored
+- **Specialization: **Software Programming
+- **Fact: **Never can focus
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binhnguyeeen/binhnguyeeen/output/snake-dark.svg" />
