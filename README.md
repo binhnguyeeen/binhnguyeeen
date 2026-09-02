@@ -14,9 +14,6 @@
 - **Projects**: Cluttered stuff, I don't usually focus on one, I get bored fast
 - **Specialization**: Software programming
 - **Fact**: Never can focus
-<div align="center">
-  <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=iambinhnguyen&count=5&radius=15" alt="Last.fm recently played" />
-</div>
 <div align="left">
   <img src="https://lastfm-recently-played.jeffreyca.workers.dev/svg?user=iambinhnguyen&count=1&width=360&radius=15" alt="Last.fm recently played" />
 </div>
