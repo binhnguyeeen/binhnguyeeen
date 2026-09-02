@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Boldonse&pause=500&color=2EA902&center=true&vCenter=true&width=435&lines=sup%2C+im+Nguyen;i+like+kanye;and+doomscrolling" />
+  <img src="https://readme-typing-svg.demolab.com?font=Boldonse&pause=500&color=2EA902&center=true&vCenter=true&width=435&lines=sup%2C+im+Nguyen;i+like+kanye;and+kpop;im+still+a+straight+male+btw" />
 </div>
 
 ---
