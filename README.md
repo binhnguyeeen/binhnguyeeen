@@ -1,5 +1,13 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Boldonse&pause=977&color=2EA902&center=true&vCenter=true&width=435&lines=NEWJEANS+NEVER+DIE!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Boldonse&pause=977&color=2EA902&center=true&vCenter=true&width=435&lines=NEWJEANS+NEVER+DIE!" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binhnguyeeen/binhnguyeeen/output/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binhnguyeeen/binhnguyeeen/output/snake.svg" />
+    <img alt="contribution snake" src="https://raw.githubusercontent.com/binhnguyeeen/binhnguyeeen/output/snake.svg" />
+  </picture>
 </div>
 
 <!--
