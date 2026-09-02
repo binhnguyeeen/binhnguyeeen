@@ -1,5 +1,29 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/binhnguyeeen/binhnguyeeen/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/binhnguyeeen/binhnguyeeen/output/snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/binhnguyeeen/binhnguyeeen/output/snake.svg" />
-</picture>
+name: Generate snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake.svg?color_snake=#2EA902&color_dots=#EBEDF0,#D6DBE1,#BFC6CF,#A3ACB8,#8892A0
+            dist/snake-dark.svg?color_snake=#2EA902&color_dots=#161B22,#1F2430,#2C3340,#3A4252,#4A5568
+
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
