@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Boldonse&pause=500&color=2EA902&center=true&vCenter=true&width=435&lines=sup%2C+im+Nguyen;i+like+kanye;and+kpop;im+still+a+straight+male+btw" />
+  <img src="https://readme-typing-svg.demolab.com?font=Boldonse&pause=500&color=2EA902&center=true&vCenter=true&width=435&lines=sup%2C+im+Nguyen;i+like+kanye;and+newjeans;im+still+a+straight+male+btw" />
 </div>
 
 ---
 
 # About **Me**
 
-> "im nice at ping pong" — Kanye Omari West
+> "meow" — kang haerin
 
 - **Studying at**: Tran Dai Nghia Secondary and High School
 - **Currently learning**: Swift
