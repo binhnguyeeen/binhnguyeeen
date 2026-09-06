@@ -6,7 +6,7 @@
 
 # About **Me**
 
-> "meow" — kang haerin
+> "My greatest pain in life is that I will never be able to see myself perform live." -Kanye West ~2009
 
 - **Studying at**: Tran Dai Nghia Secondary and High School
 - **Currently learning**: Swift
