@@ -27,7 +27,9 @@
   </picture>
 </div>
 
-![Profile views](https://komarev.com/ghpvc/?username=binhnguyeeen&color=2EA902&style=flat)
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=binhnguyeeen&color=2EA902&style=flat" alt="Profile views" />
+</div>
 <!--
 **binhnguyeeen/binhnguyeeen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
